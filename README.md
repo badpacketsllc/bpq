@@ -3,8 +3,7 @@
 ![Build Status](https://github.com/badpacketsllc/bpq/workflows/ci/badge.svg?style=flat)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/bpq?style=flat)
 [![Docker image download](https://img.shields.io/docker/pulls/badpacketsllc/bpq?style=flat)](https://hub.docker.com/r/badpacketsllc/bpq)
-[![Docker repository on Quay](https://quay.io/repository/badpacketsllc/bpq/status "Docker repository on Quay")](https://quay.io/repository/badpacketsllc/bpq)
-[![License](https://img.shields.io/github/license/badpacketsllc/bpq?style=flat)](https://github.com/badpacketsllc/bpq/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/badpacketsllc/bpq?style=flat)](https://github.com/badpacketsllc/bpq/blob/main/LICENSE)
 [![Follow us on twitter](https://img.shields.io/twitter/follow/bad_packets.svg?style=social)](https://twitter.com/bad_packets/)
 
 A suite of helpful tools for interacting with the [Bad Packets Cyber Threat
