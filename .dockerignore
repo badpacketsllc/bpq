@@ -1,0 +1,12 @@
+examples/
+.gitignore
+.env
+Containerfile
+*.rst
+*.json
+*.csv
+*.md
+*.toml
+__pycache__
+.pytest_cache/
+tests/
