@@ -124,11 +124,11 @@ Please be nice and follow our
 License
 -------
 
-GPLv3
+Apache License 2.0
 
 Author Information
 ------------------
 
 [Mathew Woodyard](https://www.matwoodyard.com)
 
-[Bad Packets LLC](https://badpackets.net)
+[@ctidelivery](https://twitter.com/ctidelivery)
